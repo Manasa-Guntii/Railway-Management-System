@@ -50,59 +50,6 @@ npm install
 npm start
 ```
 
-## Screenshots
-
-<table>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-1.png" alt="Screenshot 1">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-2.png" alt="Screenshot 2">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-3.png" alt="Screenshot 3">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-4.png" alt="Screenshot 4">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-5.png" alt="Screenshot 5">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-6.png" alt="Screenshot 6">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-7.png" alt="Screenshot 7">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-8.png" alt="Screenshot 8">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-9.png" alt="Screenshot 9">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-10.png" alt="Screenshot 10">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="public/static/screenshots/Screenshot-11.png" alt="Screenshot 11">
-    </td>
-    <td>
-      <img src="public/static/screenshots/Screenshot-12.png" alt="Screenshot 12">
-    </td>
-  </tr>
-</table>
-
 ## Contributing
 
 Contributions are welcome! If you encounter any issues with the app or have new feature suggestions, please open an issue or submit a pull request.
